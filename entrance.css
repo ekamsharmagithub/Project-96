@@ -1,0 +1,22 @@
+.logo{
+    width: 300px;
+	margin-top: 30px;
+	border-radius: 300px;
+    border-color: orange;
+    border-style: solid;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2018/04/22/10/54/reflection-3340717_1280.jpg);
+}
+
+button{
+    height: 60px;
+    width: 140px;
+    background-image: linear-gradient(orange, lavender, yellow);
+    font-size: 40px;
+    border-radius: 10px;
+    border-color: green;
+    border-style: dotted;
+    cursor: pointer;
+}
